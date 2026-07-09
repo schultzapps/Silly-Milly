@@ -1,4 +1,4 @@
-# Support — Silly Milly's Memory Match
+# Support — Silly Milly's Photo Match
 
 Need help? Milly's got you. 🐾
 
@@ -45,7 +45,7 @@ Please email us at [schultzapps@gmail.com](mailto:schultzapps@gmail.com) and des
 
 ## Privacy
 
-Silly Milly's Memory Match collects no personal data. Your photos stay on your device and in your private iCloud account. Full details in our [Privacy Policy](privacy-policy).
+Silly Milly's Photo Match collects no personal data. Your photos stay on your device and in your private iCloud account. Full details in our [Privacy Policy](privacy-policy).
 
 ---
 
