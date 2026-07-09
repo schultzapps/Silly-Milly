@@ -120,4 +120,4 @@ We will respond to privacy inquiries within a reasonable timeframe.
 
 ---
 
-*Silly Milly says: your family's memories are yours. We're just here for the snacks.* 🐾
+*Silly Milly says: your family's memories are yours. I'm just here for the treats.* 🐾
