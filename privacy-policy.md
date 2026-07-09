@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**App:** Silly Milly's Memory Match
+**App:** Silly Milly's Photo Match
 **Developer:** Chris Schultz, operating as Schultz Apps
 **Contact:** schultzapps@gmail.com
 **Effective date:** July 1, 2026
@@ -10,7 +10,7 @@
 
 ## 1. Overview
 
-This Privacy Policy describes how Silly Milly's Memory Match (the "App") handles information when you use it. The short version: we don't collect any personal information from you, your children, or anyone else. This policy exists to be transparent about that fact and to satisfy App Store, COPPA, and GDPR disclosure requirements.
+This Privacy Policy describes how Silly Milly's Photo Match (the "App") handles information when you use it. The short version: we don't collect any personal information from you, your children, or anyone else. This policy exists to be transparent about that fact and to satisfy App Store, COPPA, and GDPR disclosure requirements.
 
 The App is developed and published by Chris Schultz, an individual developer operating as Schultz Apps, based in Atlanta, Georgia, United States.
 
